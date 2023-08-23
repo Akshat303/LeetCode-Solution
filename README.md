@@ -1,7 +1,5 @@
 # LeetCode-Solution
 
-# leetCode
-
 🎓 My solutions to [LeetCode](https://leetcode.com/problemset/all/) in JavaScript
 
 ## LeetCode Algorithms
