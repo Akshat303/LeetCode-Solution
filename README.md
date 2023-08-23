@@ -4,9 +4,9 @@
 
 ## 30 Days of JavaScript
 
-| #    | Title                                                                                                                                       | Solution                             | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------- |
-| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | [JavaScript](./7-reverse-integer.js) | Easy       |
+| #    | Title                                                                                                                                       | Solution                                                                                            | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | [JavaScript](./LeetCode%2030%20Days%20of%20JavaScript/Closures/2667-create-hello-world-function.js) | Easy       |
 
 ## LeetCode Algorithms
 
