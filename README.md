@@ -13,3 +13,4 @@
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [JavaScript](./20-valid-parentheses.js)                             | Easy       |
 | 121  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [JavaScript](./121-best-time-to-buy-and-sell-stock.js)              | Easy       |
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)                                                     | [JavaScript](./2619-array-prototype-last.js)                        | Easy       |
+| 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                                                           | [JavaScript](./767-reorganize-string.js)                            | Medium     |
