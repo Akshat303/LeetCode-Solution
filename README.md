@@ -15,3 +15,4 @@
 | 2619 | [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)                                                     | [JavaScript](./2619-array-prototype-last.js)                        | Easy       |
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                                                           | [JavaScript](./767-reorganize-string.js)                            | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | [JavaScript](./4-median-of-two-sorted-arrays.js)                    | Hard       |
+| 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                       | [JavaScript](./10-regular-expression-matching.js)                   | Hard       |
