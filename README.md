@@ -16,3 +16,4 @@
 | 767  | [Reorganize String](https://leetcode.com/problems/reorganize-string/)                                                           | [JavaScript](./767-reorganize-string.js)                            | Medium     |
 | 4    | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)                                       | [JavaScript](./4-median-of-two-sorted-arrays.js)                    | Hard       |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)                                       | [JavaScript](./10-regular-expression-matching.js)                   | Hard       |
+| 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                                     | [JavaScript](./23-merge-k-sorted-lists.js)                          | Hard       |
