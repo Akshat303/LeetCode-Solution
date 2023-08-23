@@ -10,3 +10,4 @@
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | [JavaScript](./2-Add-Two-Numbers.js)                                | Medium     |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./3-longest-substring-without-repeating-characters.js) | Medium     |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [JavaScript](./1-two-sum.js)                                        | Easy       |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [JavaScript](./20-valid-parentheses.js)                             | Easy       |
