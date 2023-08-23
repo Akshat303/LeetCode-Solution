@@ -13,9 +13,10 @@
 
 ## SQL 50
 
-| #    | Title                                                                                                                                    | Solution                                                          | Difficulty |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------- |
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./LeetCode-SQL-50/1757-recyclable-and-low-fat-products.sql) | Easy       |
+| #    | Title                                                                                                                                                | Solution                                                                | Difficulty |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/?envType=study-plan-v2&envId=top-sql-50)             | [SQL](./LeetCode-SQL-50/1757-recyclable-and-low-fat-products.sql)       | Easy       |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./LeetCode-SQL-50/1327-list-the-products-ordered-in-a-period.sql) | Easy       |
 
 ## LeetCode Algorithms
 
