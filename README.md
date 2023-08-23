@@ -2,6 +2,12 @@
 
 🎓 My solutions to [LeetCode](https://leetcode.com/problemset/all/) in JavaScript
 
+## 30 Days of JavaScript
+
+| #    | Title                                                                                                                                       | Solution                             | Difficulty |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---------- |
+| 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/?envType=study-plan-v2&envId=30-days-of-javascript) | [JavaScript](./7-reverse-integer.js) | Easy       |
+
 ## LeetCode Algorithms
 
 | #    | Title                                                                                                                           | Solution                                                            | Difficulty |
