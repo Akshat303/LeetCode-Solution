@@ -38,3 +38,4 @@
 | 68   | [Text Justification](https://leetcode.com/problems/text-justification/)                                                         | [JavaScript](./Problems/68-text-justification.js)                            | Hard       |
 | 97   | [Interleaving String](https://leetcode.com/problems/interleaving-string/)                                                       | [JavaScript](./Problems/97-interleaving-string.js)                           | Medium     |
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                     | [JavaScript](./Problems/646-maximum-length-of-pair-chain.js)                 | Medium     |
+| 403  | [Frog Jump](https://leetcode.com/problems/frog-jump/)                                                                           | [JavaScript](./Problems/403-frog-jump.js)                                    | Medium     |
