@@ -39,3 +39,15 @@
 | 97   | [Interleaving String](https://leetcode.com/problems/interleaving-string/)                                                       | [JavaScript](./Problems/97-interleaving-string.js)                           | Medium     |
 | 646  | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/)                                     | [JavaScript](./Problems/646-maximum-length-of-pair-chain.js)                 | Medium     |
 | 403  | [Frog Jump](https://leetcode.com/problems/frog-jump/)                                                                           | [JavaScript](./Problems/403-frog-jump.js)                                    | Hard       |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Akshat303/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Akshat303/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+<!---LeetCode Topics End-->
