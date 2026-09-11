@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Akshat303/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Akshat303/LeetCode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,16 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat303/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Math
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Akshat303/LeetCode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Akshat303/LeetCode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Akshat303/LeetCode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
