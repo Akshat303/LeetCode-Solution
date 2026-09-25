@@ -70,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Akshat303/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akshat303/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -91,4 +92,16 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Akshat303/LeetCode-Solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Akshat303/LeetCode-Solution/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Akshat303/LeetCode-Solution/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Akshat303/LeetCode-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
